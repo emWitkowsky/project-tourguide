@@ -1,0 +1,1 @@
+nawigacj(opcje wyboru) - position fixed (css/scss)
